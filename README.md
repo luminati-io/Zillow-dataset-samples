@@ -34,7 +34,7 @@ A Zillow dataset sample of over 1000 property listings. Dataset was extracted us
 And a lot more.
 
 This is a sample subset which is derived from the "Zillow Property Listings (public data)"
-dataset which includes more than <b>134,060,000 companies</b>.
+dataset which includes more than <b>134,060,000 properties</b>.
 
 Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
 
