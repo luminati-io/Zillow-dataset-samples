@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Zillow property listings</h2>
 
-![Zillow dataset header](https://github.com/luminati-io/Zillow-dataset-samples/blob/main/zillow-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/zillow">
+   <img src="https://github.com/luminati-io/zillow-dataset-samples/blob/main/zillow-datasets.png" alt="zillow datasets" />
+</a>
 
 A Zillow dataset sample of over 1000 property listings. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -47,7 +49,9 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 <b>[Get the full Zillow dataset](https://brightdata.com/products/datasets/zillow)</b>.
 
 
-![Zillow dataset visual](https://github.com/luminati-io/Zillow-dataset-samples/blob/main/zillow-datasets-image.PNG)
+<a href="https://brightdata.com/products/datasets/zillow">
+   <img src="https://github.com/luminati-io/zillow-dataset-samples/blob/main/dataset-promotions.png" alt="zillow media datasets" />
+</a>
 
 <h2>What are the Zillow datasets use cases?</h2>
 
